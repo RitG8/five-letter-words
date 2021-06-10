@@ -13,7 +13,7 @@ def get_words():
     
         # This drops the \n at the end of each line:
         words = f.read().splitlines()
-
+        #This is a string
     return words
 
 
